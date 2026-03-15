@@ -33,8 +33,13 @@ I'm an 18-year-old game developer from Rio Grande do Norte, Brazil. I build game
 ## 📫 Contact
 
 Feel free to reach out or check my repositories.  
-For contact, you can email me or send me a friend request on Discord!
-![Discord](https://img.shields.io/badge/Discord-caio_ez_-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+You can contact me through the platforms below.
+
+[![Email](https://img.shields.io/badge/Email-caioenzo232%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioenzo232@gmail.com)
+
+[![Discord](https://img.shields.io/badge/Discord-caio__ez__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioEzz)
 
 ---
 
