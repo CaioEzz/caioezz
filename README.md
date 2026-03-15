@@ -24,9 +24,9 @@ I'm an 18-year-old game developer from Rio Grande do Norte, Brazil. I build game
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioEzz&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEzz&layout=compact&theme=tokyonight)
 
 ---
 
@@ -34,9 +34,7 @@ I'm an 18-year-old game developer from Rio Grande do Norte, Brazil. I build game
 
 Feel free to reach out or check my repositories.  
 For contact, you can email me or send me a friend request on Discord!
-
-📩 E-mail: **caioenzo232@gmail.com**  
-📱 Discord: **caio_ez_**
+![Discord](https://img.shields.io/badge/Discord-caio_ez_-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
