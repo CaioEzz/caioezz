@@ -3,12 +3,30 @@ I'm an 18-year-old game developer from Rio Grande do Norte, Brazil. I build game
 
 ---
 
+## ⚙️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yoyogames&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
 ## 🧠 About Me
 
 * 💻 For general development, I use **Python, HTML, CSS, and TypeScript**
 * 🎮 For games, I code with **GameMaker (GML)**
 * 🧪 Computer Technician graduating from **IFRN (Federal Institute of Rio Grande do Norte)**
 * 🌱 Always learning more about **game development and web design**, and improving my English as well
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
 
 ---
 
